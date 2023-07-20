@@ -11,6 +11,8 @@ If you enjoy this list please take the time to recommend it to a friend and foll
 
 And remember: With great power comes... (we already know). 
 
+Parent Project: <a href="https://github.com/kurogai/100-redteam-projects">100 RedTeam Projects</a>
+
 <h3>Contributions</h3>
 You can make a pull request for the "Projects" directory and name the file in 
 compliance with the following convention:
