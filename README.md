@@ -314,11 +314,11 @@ ID | Title | Reference | Example
 93 | Account Access Manipulation or Removal | Link | :x:
 94 | Data encryption | Link | :x:
 95 | Resource Hijack | Link | :x:
-96 | Developing a tool for manipulating industrial control systems (ICS) | Link | :x:
-97 | Developing a tool for manipulating industrial control systems (ICS) | Link | :x:
-99 | Developing a tool for manipulating industrial control systems (ICS) | Link | :x:
-99 | Developing a tool for manipulating industrial control systems (ICS) | Link | :x:
-100 | Developing a tool for manipulating industrial control systems (ICS) | Link | :x:
+96 | DNS Traffic Analysis for Malicious Activity Detection | Link | :x:
+97 | Endpoint Detection and Response (EDR) for Ransomware | Link | :x:
+99 | Network Segmentation for Critical Systems | Link | :x:
+99 | Memory Protection Mechanisms Implementation | Link | :x:
+100 | SCADA Security Assessment and Improvement | Link | :x:
 
 <h5>Notable Projects</h5>
 
